@@ -1,6 +1,8 @@
 # Virtual Compline @ Brent House
 ## *Te Lucis ante Terminum* Polyphony Recording
 
+[![CC-BY-4.0][cc-by-4.0-image]][cc-by-4.0]
+
 For the [Virtual
 Compline](https://brenthouse.philipmcgrath.com/compline-2021-06-09.html)
 service at [Brent House](https://brenthouse.org) at UChicago, to
@@ -65,3 +67,6 @@ We hope you will virtually sing with us!
     service](https://brenthouse.philipmcgrath.com/compline-2021-06-09.html).
  
  **Thank you!**
+
+[cc-by-4.0]: https://creativecommons.org/licenses/by/4.0/
+[cc-by-4.0-image]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg
